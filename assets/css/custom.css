@@ -9,3 +9,10 @@ https://templatemo.com/tm-561-purple-buzz
     background-color: #6f71bc;
     color: #fff;
 }
+
+.nuovoNavbarFont{
+    color: black !important;
+    font-weight: 400 !important; 
+    font-size: larger !important;
+}
+
